@@ -1,0 +1,6 @@
+id,event_time,user_email,amount
+101,2026-02-01T09:15:00Z,alice@example.com,12.50
+102,2026-02-01T10:05:30Z,bob@example.com,99.99
+103,2026-02-02T08:00:00Z,charlie@example.com,5.00
+104,2026-02-03T14:45:10Z,dana@example.com,250.00
+105,2026-02-05T19:20:05Z,erin@example.com,18.75
